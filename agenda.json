@@ -91,7 +91,7 @@
     },
     {
         "title":  "PowerShell Security - what to prioritize?",
-        "Speaker":  "David das Neves + Julien Reisdorffer",
+        "Speaker":  "David das Neves, Julien Reisdorffer",
         "StartTime":  "2018-04-17 14:15:00",
         "Type":  "Presentation",
         "Track":  1,
@@ -121,7 +121,7 @@
     },
     {
         "title":  "Hands-on JEA",
-        "Speaker":  "Jan-Hendrik Peters + Raimund Andree",
+        "Speaker":  "Jan-Hendrik Peters, Raimund Andree",
         "StartTime":  "2018-04-17 15:30:00",
         "Type":  "Presentation",
         "Track":  1,
@@ -141,7 +141,7 @@
     },
     {
         "title":  "How we made Configurable Pester Tests for SQL Server",
-        "Speaker":  "Chrissy LeMaire + Rob Sewell",
+        "Speaker":  "Chrissy LeMaire,Rob Sewell",
         "StartTime":  "2018-04-17 15:30:00",
         "Type":  "Presentation",
         "Track":  3,
@@ -201,7 +201,7 @@
     },
     {
         "title":  "PowerShell Engine Internals ",
-        "Speaker":  "Dongbo Wang (Microsoft)",
+        "Speaker":  "Dongbo Wang",
         "StartTime":  "2018-04-18 08:30:00",
         "Type":  "Presentation",
         "Track":  1,
@@ -321,7 +321,7 @@
     },
     {
         "title":  "Azure Automation \u0026 Management with PowerShell \u0026 DSC ",
-        "Speaker":  "Eamon O’Reilly + Michael Greene (Microsoft)",
+        "Speaker":  "Eamon O’Reilly,Michael Greene",
         "StartTime":  "2018-04-18 14:15:00",
         "Type":  "Presentation",
         "Track":  1,
@@ -391,7 +391,7 @@
     },
     {
         "title":  "Workshop: The Power of the Dark Side: Offensive PowerShell Workshop",
-        "Speaker":  "Will Schroeder + Matt Graeber + Jared Atkinson",
+        "Speaker":  "Will Schroeder,Matt Graeber,Jared Atkinson",
         "StartTime":  "2018-04-18 17:00:00",
         "Type":  "Workshop",
         "Track":  1,
@@ -411,7 +411,7 @@
     },
     {
         "title":  "Workshop: Bring Existing Infrastructure under Code Control",
-        "Speaker":  "Matthew Hitchcock + Gael Colas + Jan-Hendrik Peters + Raimund Andree",
+        "Speaker":  "Matthew Hitchcock,Gael Colas,Jan-Hendrik Peters,Raimund Andree",
         "StartTime":  "2018-04-18 17:00:00",
         "Type":  "Workshop",
         "Track":  3,
@@ -451,7 +451,7 @@
     },
     {
         "title":  "The PowerShell Security Best Practice Live Demo! (Part 1)",
-        "Speaker":  "David das Neves + Julien Reisdorffer + Raimund Andree",
+        "Speaker":  "David das Neves,Julien Reisdorffer,Raimund Andree",
         "StartTime":  "2018-04-19 09:45:00",
         "Type":  "Presentation",
         "Track":  1,
@@ -481,7 +481,7 @@
     },
     {
         "title":  "The PowerShell Security Best Practice Live Demo! (Part 2)",
-        "Speaker":  "David das Neves + Julien Reisdorffer + Raimund Andree",
+        "Speaker":  "David das Neves,Julien Reisdorffer,Raimund Andree",
         "StartTime":  "2018-04-19 10:50:00",
         "Type":  "Presentation",
         "Track":  1,
@@ -571,7 +571,7 @@
     },
     {
         "title":  "PowerShell Core 6.1",
-        "Speaker":  "Steve Lee (Microsoft)",
+        "Speaker":  "Steve Lee",
         "StartTime":  "2018-04-19 14:55:00",
         "Type":  "Presentation",
         "Track":  1,
@@ -641,7 +641,7 @@
     },
     {
         "title":  "The X factor",
-        "Speaker":  "Thorsten Butz",
+        "Speaker":  "Bartosz Bielawski, Thorsten Butz",
         "StartTime":  "2018-04-19 17:15:00",
         "Type":  "Presentation",
         "Track":  2,
@@ -681,7 +681,7 @@
     },
     {
         "title":  "Red vs. Blue – Ready, Steady, Fight!",
-        "Speaker":  "Julien Reisdorffer + David das Neves",
+        "Speaker":  "Julien Reisdorffer,David das Neves",
         "StartTime":  "2018-04-20 08:30:00",
         "Type":  "Presentation",
         "Track":  3,
@@ -711,7 +711,7 @@
     },
     {
         "title":  "Hybrid Lab Automation",
-        "Speaker":  "Jan-Hendrik Peters + Raimund Andree",
+        "Speaker":  "Jan-Hendrik Peters,Raimund Andree",
         "StartTime":  "2018-04-20 09:45:00",
         "Type":  "Presentation",
         "Track":  3,
