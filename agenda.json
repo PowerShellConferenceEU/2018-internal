@@ -2,11 +2,7 @@
     {
         "title":  "Registration",
         "Speaker":  "None",
-        "StartTime":  {
-                          "value":  "\/Date(1523944800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 08:00:00"
-                      },
+        "StartTime":  "2018-04-17 08:00:00",
         "Type":  "Conf",
         "Track":  0,
         "Slot":  1,
@@ -16,11 +12,7 @@
     {
         "title":  "Opening Ceremony",
         "Speaker":  "Tobias Weltner",
-        "StartTime":  {
-                          "value":  "\/Date(1523948400000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 09:00:00"
-                      },
+        "StartTime":  "2018-04-17 09:00:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  2,
@@ -30,11 +22,7 @@
     {
         "title":  "PowerShell 2018 - State of the Art (Keynote)",
         "Speaker":  "Jeffrey Snover",
-        "StartTime":  {
-                          "value":  "\/Date(1523950200000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 09:30:00"
-                      },
+        "StartTime":  "2018-04-17 09:30:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  3,
@@ -44,11 +32,7 @@
     {
         "title":  "The Current State of PowerShell Security Features and Bypasses",
         "Speaker":  "Matt Graeber",
-        "StartTime":  {
-                          "value":  "\/Date(1523955600000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 11:00:00"
-                      },
+        "StartTime":  "2018-04-17 11:00:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  4,
@@ -58,11 +42,7 @@
     {
         "title":  "RegEx ^3\\.0$ - The Outer Edge",
         "Speaker":  "Mathias Jessen",
-        "StartTime":  {
-                          "value":  "\/Date(1523955600000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 11:00:00"
-                      },
+        "StartTime":  "2018-04-17 11:00:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  4,
@@ -72,11 +52,7 @@
     {
         "title":  "Using Chat Automation (ChatOps)",
         "Speaker":  "Jaap Brasser",
-        "StartTime":  {
-                          "value":  "\/Date(1523955600000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 11:00:00"
-                      },
+        "StartTime":  "2018-04-17 11:00:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  4,
@@ -86,11 +62,7 @@
     {
         "title":  "Containers! Where is my PowerShell?",
         "Speaker":  "Jan Egil Ring",
-        "StartTime":  {
-                          "value":  "\/Date(1523962800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 13:00:00"
-                      },
+        "StartTime":  "2018-04-17 13:00:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  5,
@@ -100,11 +72,7 @@
     {
         "title":  "PowerShell Core 6 auf Linux. Und was mach ich jetzt damit auf Linux?",
         "Speaker":  "Dr. H. Schwichtenberg",
-        "StartTime":  {
-                          "value":  "\/Date(1523962800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 13:00:00"
-                      },
+        "StartTime":  "2018-04-17 13:00:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  5,
@@ -114,11 +82,7 @@
     {
         "title":  "The DSC Pull Server is dead, long live the DSC Pull Server",
         "Speaker":  "Ben Gelens",
-        "StartTime":  {
-                          "value":  "\/Date(1523962800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 13:00:00"
-                      },
+        "StartTime":  "2018-04-17 13:00:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  5,
@@ -128,11 +92,7 @@
     {
         "title":  "PowerShell Security - what to prioritize?",
         "Speaker":  "David das Neves + Julien Reisdorffer",
-        "StartTime":  {
-                          "value":  "\/Date(1523967300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 14:15:00"
-                      },
+        "StartTime":  "2018-04-17 14:15:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  6,
@@ -142,11 +102,7 @@
     {
         "title":  "The Extended Type System",
         "Speaker":  "Staffan Gustafsson",
-        "StartTime":  {
-                          "value":  "\/Date(1523967300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 14:15:00"
-                      },
+        "StartTime":  "2018-04-17 14:15:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  6,
@@ -156,11 +112,7 @@
     {
         "title":  "vSphereDSC: the long and winding road",
         "Speaker":  "Luc Dekens",
-        "StartTime":  {
-                          "value":  "\/Date(1523967300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 14:15:00"
-                      },
+        "StartTime":  "2018-04-17 14:15:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  6,
@@ -170,11 +122,7 @@
     {
         "title":  "Hands-on JEA",
         "Speaker":  "Jan-Hendrik Peters + Raimund Andree",
-        "StartTime":  {
-                          "value":  "\/Date(1523971800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 15:30:00"
-                      },
+        "StartTime":  "2018-04-17 15:30:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  7,
@@ -184,11 +132,7 @@
     {
         "title":  "TFS and VSTS through Infrastructure as Code",
         "Speaker":  "Jeff Wouters",
-        "StartTime":  {
-                          "value":  "\/Date(1523971800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 15:30:00"
-                      },
+        "StartTime":  "2018-04-17 15:30:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  7,
@@ -198,11 +142,7 @@
     {
         "title":  "How we made Configurable Pester Tests for SQL Server",
         "Speaker":  "Chrissy LeMaire + Rob Sewell",
-        "StartTime":  {
-                          "value":  "\/Date(1523971800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 15:30:00"
-                      },
+        "StartTime":  "2018-04-17 15:30:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  7,
@@ -212,11 +152,7 @@
     {
         "title":  "Invoke-CypherDog - Bloodhound Dog Whispering with PowerShell",
         "Speaker":  "Walter Legowski",
-        "StartTime":  {
-                          "value":  "\/Date(1523976300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 16:45:00"
-                      },
+        "StartTime":  "2018-04-17 16:45:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  8,
@@ -226,11 +162,7 @@
     {
         "title":  "Was ein PowerShell-Nutzer über .NET wissen MUSS!",
         "Speaker":  "Dr. H. Schwichtenberg",
-        "StartTime":  {
-                          "value":  "\/Date(1523976300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 16:45:00"
-                      },
+        "StartTime":  "2018-04-17 16:45:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  8,
@@ -240,11 +172,7 @@
     {
         "title":  "OVF - getting fun from boring tasks",
         "Speaker":  "Mateusz Czerniawski",
-        "StartTime":  {
-                          "value":  "\/Date(1523976300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 16:45:00"
-                      },
+        "StartTime":  "2018-04-17 16:45:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  8,
@@ -254,11 +182,7 @@
     {
         "title":  "ASA - Ask Speakers Anything",
         "Speaker":  "All",
-        "StartTime":  {
-                          "value":  "\/Date(1523979900000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 17:45:00"
-                      },
+        "StartTime":  "2018-04-17 17:45:00",
         "Type":  "Discussion",
         "Track":  1,
         "Slot":  9,
@@ -268,11 +192,7 @@
     {
         "title":  "Zoo Evening Event",
         "Speaker":  "All",
-        "StartTime":  {
-                          "value":  "\/Date(1523982600000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Dienstag, 17. April 2018 18:30:00"
-                      },
+        "StartTime":  "2018-04-17 18:30:00",
         "Type":  "Event",
         "Track":  0,
         "Slot":  10,
@@ -282,11 +202,7 @@
     {
         "title":  "PowerShell Engine Internals ",
         "Speaker":  "Dongbo Wang (Microsoft)",
-        "StartTime":  {
-                          "value":  "\/Date(1524033000000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 08:30:00"
-                      },
+        "StartTime":  "2018-04-18 08:30:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  1,
@@ -296,11 +212,7 @@
     {
         "title":  "Saving Mr Typo: Authoring Tab Expansions with TabExpansionPlusPlus",
         "Speaker":  "Bartosz Bielawski",
-        "StartTime":  {
-                          "value":  "\/Date(1524033000000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 08:30:00"
-                      },
+        "StartTime":  "2018-04-18 08:30:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  1,
@@ -310,11 +222,7 @@
     {
         "title":  "Case of the Unexplained - PowerShell Edition",
         "Speaker":  "Daniël Both",
-        "StartTime":  {
-                          "value":  "\/Date(1524033000000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 08:30:00"
-                      },
+        "StartTime":  "2018-04-18 08:30:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  1,
@@ -324,11 +232,7 @@
     {
         "title":  "Game of Automation Thrones",
         "Speaker":  "Aleksandar Nikolic",
-        "StartTime":  {
-                          "value":  "\/Date(1524037500000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 09:45:00"
-                      },
+        "StartTime":  "2018-04-18 09:45:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  2,
@@ -338,11 +242,7 @@
     {
         "title":  "Somewhat Advanced dbatools Development",
         "Speaker":  "Chrissy LeMaire",
-        "StartTime":  {
-                          "value":  "\/Date(1524037500000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 09:45:00"
-                      },
+        "StartTime":  "2018-04-18 09:45:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  2,
@@ -352,11 +252,7 @@
     {
         "title":  "How to become a PowerShell Type System Ninja!",
         "Speaker":  "Mathias Jessen",
-        "StartTime":  {
-                          "value":  "\/Date(1524037500000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 09:45:00"
-                      },
+        "StartTime":  "2018-04-18 09:45:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  2,
@@ -366,11 +262,7 @@
     {
         "title":  "Become a PowerShell Debugging Ninja",
         "Speaker":  "Kirk Munro",
-        "StartTime":  {
-                          "value":  "\/Date(1524042000000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 11:00:00"
-                      },
+        "StartTime":  "2018-04-18 11:00:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  3,
@@ -380,11 +272,7 @@
     {
         "title":  "Desired State: A close look at the PowerShell and DSC integrations with Chef",
         "Speaker":  "Stuart Preston",
-        "StartTime":  {
-                          "value":  "\/Date(1524042000000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 11:00:00"
-                      },
+        "StartTime":  "2018-04-18 11:00:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  3,
@@ -394,11 +282,7 @@
     {
         "title":  "Pester internals and concepts",
         "Speaker":  "Jakub Jareš",
-        "StartTime":  {
-                          "value":  "\/Date(1524042000000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 11:00:00"
-                      },
+        "StartTime":  "2018-04-18 11:00:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  3,
@@ -408,11 +292,7 @@
     {
         "title":  "Revoke-Obfuscation: PowerShell Obfuscation Detection (And Evasion) Using Science",
         "Speaker":  "Daniel Bohannon ",
-        "StartTime":  {
-                          "value":  "\/Date(1524049200000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 13:00:00"
-                      },
+        "StartTime":  "2018-04-18 13:00:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  4,
@@ -422,11 +302,7 @@
     {
         "title":  "Automate everything: Bring self-service to LEGO robots",
         "Speaker":  "Jakob Gottlieb Svendsen",
-        "StartTime":  {
-                          "value":  "\/Date(1524049200000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 13:00:00"
-                      },
+        "StartTime":  "2018-04-18 13:00:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  4,
@@ -436,11 +312,7 @@
     {
         "title":  "Configurations, Personalities, and Stamps - Modular approach to realizing the deployment pipeline",
         "Speaker":  "Ravikanth Chaganti",
-        "StartTime":  {
-                          "value":  "\/Date(1524049200000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 13:00:00"
-                      },
+        "StartTime":  "2018-04-18 13:00:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  4,
@@ -450,11 +322,7 @@
     {
         "title":  "Azure Automation \u0026 Management with PowerShell \u0026 DSC ",
         "Speaker":  "Eamon O’Reilly + Michael Greene (Microsoft)",
-        "StartTime":  {
-                          "value":  "\/Date(1524053700000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 14:15:00"
-                      },
+        "StartTime":  "2018-04-18 14:15:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  5,
@@ -464,11 +332,7 @@
     {
         "title":  "PowerShell, Reflection, and the Windows API",
         "Speaker":  "Jared Atkinson",
-        "StartTime":  {
-                          "value":  "\/Date(1524053700000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 14:15:00"
-                      },
+        "StartTime":  "2018-04-18 14:15:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  5,
@@ -478,11 +342,7 @@
     {
         "title":  "Infrastructure validation using Pester",
         "Speaker":  "Irwin Strachan",
-        "StartTime":  {
-                          "value":  "\/Date(1524053700000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 14:15:00"
-                      },
+        "StartTime":  "2018-04-18 14:15:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  5,
@@ -492,11 +352,7 @@
     {
         "title":  "Convert your Windows PowerShell module to be compatible with PowerShell Core 6.x",
         "Speaker":  "Wojciech Sciesinski",
-        "StartTime":  {
-                          "value":  "\/Date(1524058200000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 15:30:00"
-                      },
+        "StartTime":  "2018-04-18 15:30:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  6,
@@ -506,11 +362,7 @@
     {
         "title":  "PowerShell Yin-Yang: The Worst Practices and Tips \u0026 Tricks",
         "Speaker":  "Bartosz Bielawski",
-        "StartTime":  {
-                          "value":  "\/Date(1524058200000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 15:30:00"
-                      },
+        "StartTime":  "2018-04-18 15:30:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  6,
@@ -520,11 +372,7 @@
     {
         "title":  "Release Pipeline - the PPoSh Modules Story",
         "Speaker":  "Mateusz Czerniawski",
-        "StartTime":  {
-                          "value":  "\/Date(1524058200000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 15:30:00"
-                      },
+        "StartTime":  "2018-04-18 15:30:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  6,
@@ -534,11 +382,7 @@
     {
         "title":  "Introduction Workshops",
         "Speaker":  "All",
-        "StartTime":  {
-                          "value":  "\/Date(1524061800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 16:30:00"
-                      },
+        "StartTime":  "2018-04-18 16:30:00",
         "Type":  "Discussion",
         "Track":  1,
         "Slot":  7,
@@ -548,11 +392,7 @@
     {
         "title":  "Workshop: The Power of the Dark Side: Offensive PowerShell Workshop",
         "Speaker":  "Will Schroeder + Matt Graeber + Jared Atkinson",
-        "StartTime":  {
-                          "value":  "\/Date(1524063600000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 17:00:00"
-                      },
+        "StartTime":  "2018-04-18 17:00:00",
         "Type":  "Workshop",
         "Track":  1,
         "Slot":  8,
@@ -562,11 +402,7 @@
     {
         "title":  "Workshop: PlatyPS: From 0 to 1 and beyond",
         "Speaker":  "Sergei Vorobev",
-        "StartTime":  {
-                          "value":  "\/Date(1524063600000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 17:00:00"
-                      },
+        "StartTime":  "2018-04-18 17:00:00",
         "Type":  "Workshop",
         "Track":  2,
         "Slot":  8,
@@ -576,11 +412,7 @@
     {
         "title":  "Workshop: Bring Existing Infrastructure under Code Control",
         "Speaker":  "Matthew Hitchcock + Gael Colas + Jan-Hendrik Peters + Raimund Andree",
-        "StartTime":  {
-                          "value":  "\/Date(1524063600000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Mittwoch, 18. April 2018 17:00:00"
-                      },
+        "StartTime":  "2018-04-18 17:00:00",
         "Type":  "Workshop",
         "Track":  3,
         "Slot":  8,
@@ -590,11 +422,7 @@
     {
         "title":  "",
         "Speaker":  "N/N MSFT",
-        "StartTime":  {
-                          "value":  "\/Date(1524119400000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 08:30:00"
-                      },
+        "StartTime":  "2018-04-19 08:30:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  1,
@@ -604,11 +432,7 @@
     {
         "title":  "Werde zum XML Ninja mit PowerShell",
         "Speaker":  "Andreas Nick",
-        "StartTime":  {
-                          "value":  "\/Date(1524119400000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 08:30:00"
-                      },
+        "StartTime":  "2018-04-19 08:30:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  1,
@@ -618,11 +442,7 @@
     {
         "title":  "Reverse DSC - Making SharePoint Admins feel loved again",
         "Speaker":  "Rick Taylor",
-        "StartTime":  {
-                          "value":  "\/Date(1524119400000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 08:30:00"
-                      },
+        "StartTime":  "2018-04-19 08:30:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  1,
@@ -632,21 +452,7 @@
     {
         "title":  "The PowerShell Security Best Practice Live Demo! (Part 1)",
         "Speaker":  "David das Neves + Julien Reisdorffer + Raimund Andree",
-        "StartTime":  {
-                          "value":  [
-                                        {
-                                            "value":  "\/Date(1524123900000)\/",
-                                            "DisplayHint":  2,
-                                            "DateTime":  "Donnerstag, 19. April 2018 09:45:00"
-                                        },
-                                        {
-                                            "value":  "\/Date(1524123900000)\/",
-                                            "DisplayHint":  2,
-                                            "DateTime":  "Donnerstag, 19. April 2018 09:45:00"
-                                        }
-                                    ],
-                          "Count":  2
-                      },
+        "StartTime":  "2018-04-19 09:45:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  2,
@@ -656,21 +462,7 @@
     {
         "title":  "Continuous Delivery for your Module to the PowerShell Gallery",
         "Speaker":  "Rob Sewell",
-        "StartTime":  {
-                          "value":  [
-                                        {
-                                            "value":  "\/Date(1524123900000)\/",
-                                            "DisplayHint":  2,
-                                            "DateTime":  "Donnerstag, 19. April 2018 09:45:00"
-                                        },
-                                        {
-                                            "value":  "\/Date(1524123900000)\/",
-                                            "DisplayHint":  2,
-                                            "DateTime":  "Donnerstag, 19. April 2018 09:45:00"
-                                        }
-                                    ],
-                          "Count":  2
-                      },
+        "StartTime":  "2018-04-19 09:45:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  2,
@@ -680,21 +472,7 @@
     {
         "title":  "Everything you always wanted to know about using API from PowerCLI",
         "Speaker":  "Luc Dekens",
-        "StartTime":  {
-                          "value":  [
-                                        {
-                                            "value":  "\/Date(1524123900000)\/",
-                                            "DisplayHint":  2,
-                                            "DateTime":  "Donnerstag, 19. April 2018 09:45:00"
-                                        },
-                                        {
-                                            "value":  "\/Date(1524123900000)\/",
-                                            "DisplayHint":  2,
-                                            "DateTime":  "Donnerstag, 19. April 2018 09:45:00"
-                                        }
-                                    ],
-                          "Count":  2
-                      },
+        "StartTime":  "2018-04-19 09:45:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  2,
@@ -704,11 +482,7 @@
     {
         "title":  "The PowerShell Security Best Practice Live Demo! (Part 2)",
         "Speaker":  "David das Neves + Julien Reisdorffer + Raimund Andree",
-        "StartTime":  {
-                          "value":  "\/Date(1524127800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 10:50:00"
-                      },
+        "StartTime":  "2018-04-19 10:50:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  3,
@@ -718,11 +492,7 @@
     {
         "title":  "Be the automator - not the automated",
         "Speaker":  "Jan Egil Ring",
-        "StartTime":  {
-                          "value":  "\/Date(1524127800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 10:50:00"
-                      },
+        "StartTime":  "2018-04-19 10:50:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  3,
@@ -732,11 +502,7 @@
     {
         "title":  "PowerShell in Azure Cloud Shell",
         "Speaker":  "Aleksandar Nikolic",
-        "StartTime":  {
-                          "value":  "\/Date(1524127800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 10:50:00"
-                      },
+        "StartTime":  "2018-04-19 10:50:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  3,
@@ -746,11 +512,7 @@
     {
         "title":  "Auditing Domain Trust Relationships",
         "Speaker":  "Will Schroeder",
-        "StartTime":  {
-                          "value":  "\/Date(1524134100000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 12:35:00"
-                      },
+        "StartTime":  "2018-04-19 12:35:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  4,
@@ -760,11 +522,7 @@
     {
         "title":  "Navigate around the edge with PowerShell",
         "Speaker":  "Jaap Brasser",
-        "StartTime":  {
-                          "value":  "\/Date(1524134100000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 12:35:00"
-                      },
+        "StartTime":  "2018-04-19 12:35:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  4,
@@ -774,11 +532,7 @@
     {
         "title":  "Automate automating your automation, DSC with class-defined metadata",
         "Speaker":  "Daniël Both",
-        "StartTime":  {
-                          "value":  "\/Date(1524134100000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 12:35:00"
-                      },
+        "StartTime":  "2018-04-19 12:35:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  4,
@@ -788,11 +542,7 @@
     {
         "title":  "PowerShell Code Signing: Practical Applications, Attacks, and Mitigations",
         "Speaker":  "Matt Graeber",
-        "StartTime":  {
-                          "value":  "\/Date(1524138300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 13:45:00"
-                      },
+        "StartTime":  "2018-04-19 13:45:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  5,
@@ -802,11 +552,7 @@
     {
         "title":  "PowerShell Formatting",
         "Speaker":  "Staffan Gustafsson",
-        "StartTime":  {
-                          "value":  "\/Date(1524138300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 13:45:00"
-                      },
+        "StartTime":  "2018-04-19 13:45:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  5,
@@ -816,11 +562,7 @@
     {
         "title":  "DSC in Configuration Management tool world",
         "Speaker":  "Ben Gelens",
-        "StartTime":  {
-                          "value":  "\/Date(1524138300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 13:45:00"
-                      },
+        "StartTime":  "2018-04-19 13:45:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  5,
@@ -830,11 +572,7 @@
     {
         "title":  "PowerShell Core 6.1",
         "Speaker":  "Steve Lee (Microsoft)",
-        "StartTime":  {
-                          "value":  "\/Date(1524142500000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 14:55:00"
-                      },
+        "StartTime":  "2018-04-19 14:55:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  6,
@@ -844,11 +582,7 @@
     {
         "title":  "PowerShell for SharePoint Online - How DevOps is making SharePoint Admins feel loved again",
         "Speaker":  "Rick Taylor",
-        "StartTime":  {
-                          "value":  "\/Date(1524142500000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 14:55:00"
-                      },
+        "StartTime":  "2018-04-19 14:55:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  6,
@@ -858,11 +592,7 @@
     {
         "title":  "Parameter Classes: Making parameter-binding user friendly",
         "Speaker":  "Friedrich Weinmann",
-        "StartTime":  {
-                          "value":  "\/Date(1524142500000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 14:55:00"
-                      },
+        "StartTime":  "2018-04-19 14:55:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  6,
@@ -872,11 +602,7 @@
     {
         "title":  "DevSec Defense: How DevOps Practices Can Drive Detection Development For Defenders",
         "Speaker":  "Daniel Bohannon",
-        "StartTime":  {
-                          "value":  "\/Date(1524146700000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 16:05:00"
-                      },
+        "StartTime":  "2018-04-19 16:05:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  7,
@@ -886,11 +612,7 @@
     {
         "title":  "Azure Automation in production, lessons learned in the field",
         "Speaker":  "Jakob Gottlieb Svendsen",
-        "StartTime":  {
-                          "value":  "\/Date(1524146700000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 16:05:00"
-                      },
+        "StartTime":  "2018-04-19 16:05:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  7,
@@ -900,11 +622,7 @@
     {
         "title":  "Introduction to Azure Function Apps",
         "Speaker":  "Kirk Munro",
-        "StartTime":  {
-                          "value":  "\/Date(1524146700000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 16:05:00"
-                      },
+        "StartTime":  "2018-04-19 16:05:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  7,
@@ -914,11 +632,7 @@
     {
         "title":  "ETL with PowerShell",
         "Speaker":  "Andre Kamman",
-        "StartTime":  {
-                          "value":  "\/Date(1524150900000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 17:15:00"
-                      },
+        "StartTime":  "2018-04-19 17:15:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  8,
@@ -928,11 +642,7 @@
     {
         "title":  "The X factor",
         "Speaker":  "Thorsten Butz",
-        "StartTime":  {
-                          "value":  "\/Date(1524150900000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 17:15:00"
-                      },
+        "StartTime":  "2018-04-19 17:15:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  8,
@@ -942,11 +652,7 @@
     {
         "title":  "Dependencies, how to make them evident",
         "Speaker":  "Irwin Strachan",
-        "StartTime":  {
-                          "value":  "\/Date(1524150900000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Donnerstag, 19. April 2018 17:15:00"
-                      },
+        "StartTime":  "2018-04-19 17:15:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  8,
@@ -956,11 +662,7 @@
     {
         "title":  "SHiPS: Walk-through a bare-metal system configuration",
         "Speaker":  "Ravikanth Chaganti",
-        "StartTime":  {
-                          "value":  "\/Date(1524205800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 08:30:00"
-                      },
+        "StartTime":  "2018-04-20 08:30:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  1,
@@ -970,11 +672,7 @@
     {
         "title":  "Automatisierung der Erstellung von Softwarepaketen mit PowerShell",
         "Speaker":  "Andreas Nick",
-        "StartTime":  {
-                          "value":  "\/Date(1524205800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 08:30:00"
-                      },
+        "StartTime":  "2018-04-20 08:30:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  1,
@@ -984,11 +682,7 @@
     {
         "title":  "Red vs. Blue – Ready, Steady, Fight!",
         "Speaker":  "Julien Reisdorffer + David das Neves",
-        "StartTime":  {
-                          "value":  "\/Date(1524205800000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 08:30:00"
-                      },
+        "StartTime":  "2018-04-20 08:30:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  1,
@@ -998,11 +692,7 @@
     {
         "title":  "PowerShell Empire Strikes Back",
         "Speaker":  "Walter Legowski",
-        "StartTime":  {
-                          "value":  "\/Date(1524210300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 09:45:00"
-                      },
+        "StartTime":  "2018-04-20 09:45:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  2,
@@ -1012,11 +702,7 @@
     {
         "title":  "Test-Driven Infrastructure with Test Kitchen, Chef, and DSC",
         "Speaker":  "Stuart Preston",
-        "StartTime":  {
-                          "value":  "\/Date(1524210300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 09:45:00"
-                      },
+        "StartTime":  "2018-04-20 09:45:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  2,
@@ -1026,11 +712,7 @@
     {
         "title":  "Hybrid Lab Automation",
         "Speaker":  "Jan-Hendrik Peters + Raimund Andree",
-        "StartTime":  {
-                          "value":  "\/Date(1524210300000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 09:45:00"
-                      },
+        "StartTime":  "2018-04-20 09:45:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  2,
@@ -1040,11 +722,7 @@
     {
         "title":  "Using other languages from PowerShell",
         "Speaker":  "Øyvind Kallstad",
-        "StartTime":  {
-                          "value":  "\/Date(1524214500000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 10:55:00"
-                      },
+        "StartTime":  "2018-04-20 10:55:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  3,
@@ -1054,11 +732,7 @@
     {
         "title":  "Use your PowerShell skills to extend Ansible workflows - create your own Ansible module for Windows platform",
         "Speaker":  "Wojciech Sciesinski",
-        "StartTime":  {
-                          "value":  "\/Date(1524214500000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 10:55:00"
-                      },
+        "StartTime":  "2018-04-20 10:55:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  3,
@@ -1068,11 +742,7 @@
     {
         "title":  "Use PowerShell as your language of choice inside Azure Functions",
         "Speaker":  "Andre Kamman",
-        "StartTime":  {
-                          "value":  "\/Date(1524214500000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 10:55:00"
-                      },
+        "StartTime":  "2018-04-20 10:55:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  3,
@@ -1082,11 +752,7 @@
     {
         "title":  "The hitchhiker\u0027s guide to user-friendly module design",
         "Speaker":  "Friedrich Weinmann",
-        "StartTime":  {
-                          "value":  "\/Date(1524221100000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 12:45:00"
-                      },
+        "StartTime":  "2018-04-20 12:45:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  4,
@@ -1096,11 +762,7 @@
     {
         "title":  "How to satisfy your OCD for and with PowerShell?",
         "Speaker":  "Jeff Wouters",
-        "StartTime":  {
-                          "value":  "\/Date(1524221100000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 12:45:00"
-                      },
+        "StartTime":  "2018-04-20 12:45:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  4,
@@ -1110,11 +772,7 @@
     {
         "title":  "Common mistakes in Pester tests",
         "Speaker":  "Jakub Jareš",
-        "StartTime":  {
-                          "value":  "\/Date(1524221100000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 12:45:00"
-                      },
+        "StartTime":  "2018-04-20 12:45:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  4,
@@ -1124,11 +782,7 @@
     {
         "title":  "Python for PowerShellistas",
         "Speaker":  "Sergei Vorobev",
-        "StartTime":  {
-                          "value":  "\/Date(1524225600000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 14:00:00"
-                      },
+        "StartTime":  "2018-04-20 14:00:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  5,
@@ -1138,11 +792,7 @@
     {
         "title":  "Working with Binary Data: Writing your own parser",
         "Speaker":  "Jared Atkinson",
-        "StartTime":  {
-                          "value":  "\/Date(1524225600000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 14:00:00"
-                      },
+        "StartTime":  "2018-04-20 14:00:00",
         "Type":  "Presentation",
         "Track":  2,
         "Slot":  5,
@@ -1152,11 +802,7 @@
     {
         "title":  "A matter of trust: Authentication and authorization in the PowerShell",
         "Speaker":  "Thorsten Butz",
-        "StartTime":  {
-                          "value":  "\/Date(1524225600000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 14:00:00"
-                      },
+        "StartTime":  "2018-04-20 14:00:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  5,
@@ -1166,11 +812,7 @@
     {
         "title":  "Microsoft \u0026 Speakers Grand Finale",
         "Speaker":  "All",
-        "StartTime":  {
-                          "value":  "\/Date(1524229200000)\/",
-                          "DisplayHint":  2,
-                          "DateTime":  "Freitag, 20. April 2018 15:00:00"
-                      },
+        "StartTime":  "2018-04-20 15:00:00",
         "Type":  "Discussion",
         "Track":  1,
         "Slot":  6,
