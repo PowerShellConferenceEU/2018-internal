@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "title":  "Registration",
         "Speaker":  "None",
@@ -323,7 +323,7 @@
     },
     {
         "title":  "Game of Automation Thrones",
-        "Speaker":  "Aleksandar Nikoli?",
+        "Speaker":  "Aleksandar Nikolic",
         "StartTime":  {
                           "value":  "\/Date(1524037500000)\/",
                           "DisplayHint":  2,
@@ -731,7 +731,7 @@
     },
     {
         "title":  "PowerShell in Azure Cloud Shell",
-        "Speaker":  "Aleksandar Nikoli?",
+        "Speaker":  "Aleksandar Nikolic",
         "StartTime":  {
                           "value":  "\/Date(1524127800000)\/",
                           "DisplayHint":  2,
