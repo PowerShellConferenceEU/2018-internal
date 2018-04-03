@@ -108,13 +108,13 @@
         "ID":  9
     },
     {
-        "title":  "PowerShell Security - what to prioritize?",
-        "Speaker":  "David das Neves, Julien Reisdorffer",
+        "title":  "Red vs. Blue – Ready, Steady, Fight!",
+        "Speaker":  "Julien Reisdorffer,David das Neves",
         "StartTime":  "2018-04-17 14:15:00",
         "Type":  "Presentation",
         "Track":  1,
         "Slot":  6,
-        "abstract":  "PowerShell Security is a very wide topic. Starting from Signing, Logging, Remoting, Priviliged Access Management moving on to enforced Constrained Language Mode, AMSI, JEA and much more. But where to start and where to end? We will discuss a simplified guideline what needs to be prioritized and how.",
+        "abstract":  "Julien \u0026 David will show in this very technical but thrilling session commonly used attack techniques using PowerShell and possible countermeasures focusing on Win10 to provide very technical insights. Are you even aware of the defensive stack or have you just lost the race? It´s time to figure out.",
         "Duration":  60,
         "Category":  "Security",
         "ID":  10
@@ -816,13 +816,13 @@
         "ID":  68
     },
     {
-        "title":  "Red vs. Blue – Ready, Steady, Fight!",
-        "Speaker":  "Julien Reisdorffer,David das Neves",
+        "title":  "PowerShell Security - what to prioritize?",
+        "Speaker":  "David das Neves",
         "StartTime":  "2018-04-20 08:30:00",
         "Type":  "Presentation",
         "Track":  3,
         "Slot":  1,
-        "abstract":  "Julien \u0026 David will show in this very technical but thrilling session commonly used attack techniques using PowerShell and possible countermeasures focusing on Win10 to provide very technical insights. Are you even aware of the defensive stack or have you just lost the race? It´s time to figure out.",
+        "abstract":  "PowerShell Security is a very wide topic. Starting from Signing, Logging, Remoting, Priviliged Access Management moving on to enforced Constrained Language Mode, AMSI, JEA and much more. But where to start and where to end? We will discuss a simplified guideline what needs to be prioritized and how.",
         "Duration":  60,
         "Category":  "Security",
         "ID":  69
